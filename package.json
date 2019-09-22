@@ -2,9 +2,9 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "node.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon node.js"
   },
   "keywords": [],
   "author": "",
